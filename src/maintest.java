@@ -26,7 +26,7 @@ public class maintest {
         }
 
         else {
-            System.out.println("Fuck off");
+            System.out.println("That is not supported!");
         }
 
     }
